@@ -1,2 +1,2 @@
 # hello-world
-Newbie project
+Newbie project, just following the directions.
